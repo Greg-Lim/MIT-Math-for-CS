@@ -1,67 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chapter 5: Graph Theory</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#simple-graphs">Simple Graphs</a>
-<ul>
-<li><a href="#common-graphs">Common graphs</a></li>
-<li><a href="#isomorphism">Isomorphism</a></li>
-<li><a href="#subgraphs">Subgraphs</a></li>
-<li><a href="#weighted-graph">Weighted Graph</a></li>
-<li><a href="#adjacency-matrix">Adjacency Matrix</a></li>
-</ul>
-</li>
-<li><a href="#matching-problem">Matching Problem</a>
-<ul>
-<li></li>
-<li><a href="#the-stable-marriage-problem">The Stable Marriage problem</a></li>
-<li><a href="#coloring">Coloring</a></li>
-</ul>
-</li>
-<li><a href="#walks">Walks</a></li>
-<li><a href="#connectivity">Connectivity</a>
-<ul>
-<li></li>
-</ul>
-</li>
-<li><a href="#cycles-and-close-walks">Cycles and close walks</a>
-<ul>
-<li><a href="#odd-cycles-and-2-colorability">Odd cycles and 2-colorability</a></li>
-<li><a href="#euler-walk-and-euler-tour">Euler walk and euler tour</a></li>
-<li><a href="#hamiltonian-cycle">Hamiltonian Cycle</a></li>
-<li><a href="#the-traveling-salesperson-problem">The Traveling Salesperson Problem</a></li>
-</ul>
-</li>
-<li><a href="#trees">Trees</a>
-<ul>
-<li><a href="#properties-of-trees">Properties of trees</a></li>
-<li><a href="#spanning-trees">Spanning trees</a></li>
-<li><a href="#minimum-weight-spanning-trees">Minimum Weight Spanning Trees</a></li>
-</ul>
-</li>
-<li><a href="#planner-graphs">Planner Graphs</a>
-<ul>
-<li><a href="#a-recursive-definition-for-planar-graphs">A Recursive Definition for Planar Graphs</a></li>
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="simple-graphs">Simple Graphs</h1>
+<h1 id="simple-graphs">Simple Graphs</h1>
 <dl>
 <dt>Simple Graphs</dt>
 <dd>A simple graph G consist of a non-empty set V, called <em><strong>vertices</strong></em> (or nodes) of G and a set E of two element subset of V. The element of E are called <em><strong>edges</strong></em> of G.<br>
@@ -312,8 +249,3 @@ The <em><strong>weight</strong></em> of a spanning tree is the sum of weights of
 <p>A <em><strong>planner graph</strong></em> is a graph that has a planer drawing.</p>
 <h2 id="a-recursive-definition-for-planar-graphs">A Recursive Definition for Planar Graphs</h2>
 
-    </div>
-  </div>
-</body>
-
-</html>
