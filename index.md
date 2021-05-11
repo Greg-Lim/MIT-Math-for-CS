@@ -1,7 +1,4 @@
----
 
-
----
 
 <h1 id="simple-graphs">Simple Graphs</h1>
 <dl>
