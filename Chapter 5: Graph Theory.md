@@ -259,4 +259,14 @@ The <em><strong>weight</strong></em> of a spanning tree is the sum of weights of
 <p>The face on the outside that stretch on to infinity is called the <em><strong>outside face</strong></em>.</p>
 <p><em><strong>bridge</strong></em><br>
 <em><strong>dongle</strong></em></p>
+<p><em><strong>Planar embedding</strong></em></p>
+<h2 id="euler-formula">Euler formula</h2>
+<blockquote>
+<p>If a connected graph has a planar embedding, then<br>
+<span class="katex--display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>v</mi><mo>−</mo><mi>e</mi><mo>+</mo><mi>g</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">v - e + g = 2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.66666em; vertical-align: -0.08333em;"></span><span class="mord mathnormal" style="margin-right: 0.03588em;">v</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.66666em; vertical-align: -0.08333em;"></span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathnormal" style="margin-right: 0.03588em;">g</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">2</span></span></span></span></span></span></p>
+</blockquote>
+<pre><code>slkfjslkfj
+	klsfksjflsfjslkf	
+		skfjklsfjslfjslfksfslfskjfsjflsafjsfdfssssssssssssssssssssssssssssssss
+</code></pre>
 
