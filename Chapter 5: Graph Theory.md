@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chapter 5: Graph Theory</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="simple-graphs">Simple Graphs</h1>
+<h1 id="simple-graphs">Simple Graphs</h1>
 <dl>
 <dt>Simple Graphs</dt>
 <dd>A simple graph G consist of a non-empty set V, called <em><strong>vertices</strong></em> (or nodes) of G and a set E of two element subset of V. The element of E are called <em><strong>edges</strong></em> of G.<br>
@@ -273,7 +262,4 @@ The <em><strong>weight</strong></em> of a spanning tree is the sum of weights of
 	klsfksjflsfjslkf	
 		skfjklsfjslfjslfksfslfskjfsjflsafjsfdfssssssssssssssssssssssssssssssss
 </code></pre>
-</div>
-</body>
 
-</html>
