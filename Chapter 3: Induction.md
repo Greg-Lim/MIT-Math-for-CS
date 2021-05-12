@@ -1,10 +1,3 @@
----
- katex: {
-    enabled: true,
-  }
-
----
-
 <p>This chapter is on using induction to proof.</p>
 <h1 id="well-ordering-principle">Well-Ordering Principle</h1>
 <ul>
