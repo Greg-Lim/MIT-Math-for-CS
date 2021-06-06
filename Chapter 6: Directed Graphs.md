@@ -1,11 +1,3 @@
----
-extensions:
-  markdown:
-    # Disable "typographic replacements" such as (c), (tm), (p)
-    typographer: false
-
----
-
 <h1 id="directed-graphs">Directed Graphs</h1>
 <h2 id="definations">Definations</h2>
 <p>A directed edge is an edge where the end points are distinguished, one is the <em><strong>head</strong></em> and one is the <em><strong>tail</strong></em>.<br>
