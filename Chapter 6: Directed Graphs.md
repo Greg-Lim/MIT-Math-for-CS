@@ -31,8 +31,8 @@ such that v<sub>i-1</sub> â†’ v<sub>i</sub> is an edge of G for all i where 0 â‰
 Example to DAG graph:<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tred-G.svg/330px-Tred-G.svg.png" alt="Example of a directed acyclic graph"></p>
 <h2 id="tournament-graphs">Tournament Graphs</h2>
-<p>Suppose that n players compete in a round robin tournament such that every pair of players, u and v, compete and have only 1 winner, u or v. There might be many kinds of cycles such that a beats b and b beats c and c beats a.</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/4-tournament.svg/270px-4-tournament.svg.png" alt="Tournament Graph example"></p>
+<p>Suppose that n players compete in a round robin tournament such that every pair of players, u and v, compete and have only 1 winner, u or v. There might be many kinds of cycles such that a beats b and b beats c and c beats a.<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/4-tournament.svg/270px-4-tournament.svg.png" alt="Tournament Graph example"></p>
 <p>The results of this tournament can be represented with a <em><strong>tournament graph</strong></em>.<br>
 This is a directed graph<br>
 Vertices represent players<br>
